@@ -1,0 +1,44 @@
+INSERT INTO "future"("id","name")
+VALUES
+(1,E'AVN'),
+(2,E'BDEV'),
+(3,E'CPG'),
+(4,E'DCC'),
+(5,E'EVN'),
+(6,E'FERG'),
+(7,E'GSK'),
+(8,E'HIK'),
+(9,E'IHG'),
+(10,E'JMAT');
+
+INSERT INTO "option"("id","name")
+VALUES
+(1,E'AVN'),
+(2,E'BDEV'),
+(3,E'CPG'),
+(4,E'DCC'),
+(5,E'EVN'),
+(6,E'FERG'),
+(7,E'GSK'),
+(8,E'HIK'),
+(9,E'IHG'),
+(10,E'JMAT');
+
+INSERT INTO "cfd"("id","name")
+VALUES
+(1,E'AVN'),
+(2,E'BDEV'),
+(3,E'CPG'),
+(4,E'DCC'),
+(5,E'EVN'),
+(6,E'FERG'),
+(7,E'GSK'),
+(8,E'HIK'),
+(9,E'IHG'),
+(10,E'JMAT');
+
+INSERT INTO "roles"("id","name")
+VALUES
+(1,E'ROLE_USER'),
+(2,E'ROLE_MODERATOR'),
+(3,E'ROLE_ADMIN')

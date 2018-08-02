@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Sun Jul 12 14:05:15 MDT 2020:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.10.1.1 - (1458268): instance a816c00e-0173-44a1-b5c7-000010dd1558 
+on database directory memory:/Users/bhavsar/git/Live-Dashboard-using-Kafka-and-Spring-Websocket/testdb with class loader sun.misc.Launcher$AppClassLoader@2a139a55 
+Loaded from file:/Users/bhavsar/.m2/repository/org/apache/derby/derby/10.10.1.1/derby-10.10.1.1.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_221-b11
+user.dir=/Users/bhavsar/git/Live-Dashboard-using-Kafka-and-Spring-Websocket
+os.name=Mac OS X
+os.arch=x86_64
+os.version=10.14.6
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
